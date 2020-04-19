@@ -19,31 +19,31 @@
 
 ---
 
-**Rochester Institute of Technology**    |    January 2018 - December 2019
-    MS Experimental Psychology    |    GPA 3.67/4.00
+**Rochester Institute of Technology**        January 2018 - December 2019
+    MS Experimental Psychology        GPA 3.67/4.00
 
 > - Coursework in the Psychology, Statistics, and Linguistics departments
 > - Research assistantships for the Psychology and Engineering Technology departments
 > - Degree focus in psycholinguistics
 > - Masters thesis on emotional word processing
 
-**Colgate University**    |    August 2013 - May 2017
-     BA Psychology & Japanese    |    GPA 3.47/4.00
+**Colgate University**        August 2013 - May 2017
+     BA Psychology & Japanese        GPA 3.47/4.00
 
 > - Double major in Japanese and Psychology with a linguistics focus
 > - Undergraduate theses examining integration of visual cues into novel phoneme reproduction
 > - Awarded a competitive research grant for translation and synthesis of literature in English and Japanese 
 > - Selected for the Benton Scholar Program, focusing on global leadership, entrepreneurship, and community leadership at Colgate
 
-**Kyoto Japanese Language School**    |    August 2014 - December 2014
+**Kyoto Japanese Language School**        August 2014 - December 2014
     Semester-long Japanese Language Study
 
 > - Studied language, culture, literature, film, and theater
 > - Expanded cultural understanding and competence through internships
 > - Volunteer work in the Bonin Islands
 
-**Supplemental Coursework**    |    August 2013 - Present
-    Coursera | edX | Udemy | DataCamp
+**Supplemental Coursework**        August 2013 - Present
+    Coursera - edX - Udemy - DataCamp
 
 > - The Brain and Space, Learning How to Learn, The Bilingual Brain, R & Python programming courses
 
@@ -52,13 +52,13 @@
 
 ---
 
- **Research Design & Data Analysis**    |    **Rochester Institute of Technology**
+ **Research Design & Data Analysis**        **Rochester Institute of Technology**
 
 > - Literature review, proposal, participant recruitment, data collection and analysis, and defense of a study looking at emotional word processing as a thesis study
 > - Working under faculty advisors as a research assistant for multiple studies ranging from note taking style and academic performance to noise reduction technology and speech intelligibility in audio recordings
 > - Proficient in the use of programs such as R, SPSS, Jamovi, JASP, Excel, SuperLab, Psychopy, Qualtrics, and Amazon mTurk for data collection, manipulation, and analysis
 
-**Research Design & Data Analysis** | **Colgate University**
+**Research Design & Data Analysis**  **Colgate University**
 
 > - Awarded funding for an independent summer research project involving both Japanese and English psychological literature and subsequent design of an experiment for my theses
 > - Researching, designing, and conducting a psychological study for my theses in both Psychology and Japanese involving Japanese phonology and multi-modal speech perception & production
