@@ -1,4 +1,5 @@
 # Ryan Hildebrandt
+
 [Homepage](https://ryancahildebrandt.github.io/About_Me/) - [Github](https://github.com/ryancahildebrandt) - [LinkedIn](https://linkedin.com/in/rcah) - [ResearchGate](https://researchgate.net/profile/Ryan\_Hildebrandt)<br>
 ryancahildebrandt@gmail.com<br>
 Rochester, NY USA<br>
@@ -6,12 +7,14 @@ Rochester, NY USA<br>
 ---
 
 ## Research Interests
+
 > - Speech & natural language processing, speech intelligibility
 > - L2 & novel language phonology
 > - Bilingualism, language acquisition & learning
 > - Emotional characteristics of words
 
 ## Education
+
 ### Rochester Institute of Technology
 
 *January 2018 - December 2019*<br>
@@ -51,6 +54,7 @@ Rochester, NY USA<br>
 > - The Brain and Space, Learning How to Learn, The Bilingual Brain, R & Python programming courses
 
 ## Research Experience
+
 ### Research Design & Data Analysis
 
 *Rochester Institute of Technology*
@@ -68,6 +72,7 @@ Rochester, NY USA<br>
 > - Proficient in the use of the audio analysis programs CSL and Praat
 
 ## Statistics & Coding Experience
+
 > - Enrolled in 4 intermediate and advanced statistics courses at Rochester Institute of Technology, including data analysis for various research studies
 > - Enrolled in 3 statistics-related courses at Colgate University, as well data analysis for my theses
 > - Well-versed in R & RStudio, SPSS, Jamovi, JASP, and Excel for data manipulation and analysis
@@ -81,4 +86,3 @@ Rochester, NY USA<br>
 
 > - Hildebrandt, R., Sutton, T. M. (2019, November). Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm. Poster presented at the Psychonomic Society 2019 Annual Meeting, Montreal, Quebec, Canada.
 > - Sutton, T. M., Crumb, R., & Hildebrandt, R. (2019, May). State-Dependent Learning and Note-Taking Strategies. Poster presented at the APS Annual Convention. Washington, DC, USA.
-
