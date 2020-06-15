@@ -76,7 +76,7 @@ Rochester, NY USA<br>
 > - Enrolled in 4 intermediate and advanced statistics courses at Rochester Institute of Technology, including data analysis for various research studies
 > - Enrolled in 3 statistics-related courses at Colgate University, as well data analysis for my theses
 > - Well-versed in R & RStudio, SPSS, Jamovi, JASP, and Excel for data manipulation and analysis
-> - Some data analysis experience in Python, MatLab, and SAS
+> - Some data analysis experience in Python, MatLab, Microsoft VBA, and SAS
 
 ## Manuscripts in Preparation
 
