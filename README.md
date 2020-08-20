@@ -84,5 +84,5 @@ Corning, NY USA<br>
 
 ## Conference Presentations
 
-> - Hildebrandt, R., Sutton, T. M. (2019, November). Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm. Poster presented at the Psychonomic Society 2019 Annual Meeting, Montreal, Quebec, Canada.
-> - Sutton, T. M., Crumb, R., & Hildebrandt, R. (2019, May). State-Dependent Learning and Note-Taking Strategies. Poster presented at the APS Annual Convention. Washington, DC, USA.
+- Hildebrandt, R., Sutton, T. M. (2019, November). Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm. Poster presented at the Psychonomic Society 2019 Annual Meeting, Montreal, Quebec, Canada.
+- Sutton, T. M., Crumb, R., & Hildebrandt, R. (2019, May). State-Dependent Learning and Note-Taking Strategies. Poster presented at the APS Annual Convention. Washington, DC, USA.
