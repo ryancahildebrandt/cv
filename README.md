@@ -1,17 +1,17 @@
-# Ryan Hildebrandt
+# Ryan Hildebrandt, MS
 
 [Homepage](https://github.com/ryancahildebrandt) - [LinkedIn](https://linkedin.com/in/rcah) - [ResearchGate](https://researchgate.net/profile/Ryan\_Hildebrandt)<br>
 ryancahildebrandt@gmail.com<br>
-Rochester, NY USA<br>
+Corning, NY USA<br>
 
 ---
 
 ## Research Interests
 
-> - Speech & natural language processing, speech intelligibility
-> - L2 & novel language phonology
-> - Bilingualism, language acquisition & learning
-> - Emotional characteristics of words
+- Speech & natural language processing, speech intelligibility
+- L2 & novel language phonology
+- Bilingualism, language acquisition & learning
+- Emotional characteristics of words
 
 ## Education
 
@@ -21,10 +21,10 @@ Rochester, NY USA<br>
 *MS Experimental Psychology*<br>
 *GPA 3.67/4.00*<br>
 
-> - Coursework in the Psychology, Statistics, and Linguistics departments
-> - Research assistantships for the Psychology and Engineering Technology departments
-> - Degree focus in psycholinguistics
-> - Masters thesis on emotional word processing
+- Coursework in the Psychology, Statistics, and Linguistics departments
+- Research assistantships for the Psychology and Engineering Technology departments
+- Degree focus in psycholinguistics
+- Masters thesis on emotional word processing
 
 ### Colgate University
 
@@ -32,26 +32,26 @@ Rochester, NY USA<br>
 *BA Psychology & Japanese*<br>
 *GPA 3.47/4.00*<br>
 
-> - Double major in Japanese and Psychology with a linguistics focus
-> - Undergraduate theses examining integration of visual cues into novel phoneme reproduction
-> - Awarded a competitive research grant for translation and synthesis of literature in English and Japanese 
-> - Selected for the Benton Scholar Program, focusing on global leadership, entrepreneurship, and community leadership at Colgate
+- Double major in Japanese and Psychology with a linguistics focus
+- Undergraduate theses examining integration of visual cues into novel phoneme reproduction
+- Awarded a competitive research grant for translation and synthesis of literature in English and Japanese 
+- Selected for the Benton Scholar Program, focusing on global leadership, entrepreneurship, and community leadership at Colgate
 
 ### Kyoto Japanese Language School
 
 *August 2014 - December 2014*<br>
 *Semester-long Japanese Language Study*<br>
 
-> - Studied language, culture, literature, film, and theater
-> - Expanded cultural understanding and competence through internships
-> - Volunteer work in the Bonin Islands
+- Studied language, culture, literature, film, and theater
+- Expanded cultural understanding and competence through internships
+- Volunteer work in the Bonin Islands
 
 ### Supplemental Coursework
 
 *August 2013 - Present*<br>
 *Coursera - edX - Udemy - DataCamp*<br>
 
-> - The Brain and Space, Learning How to Learn, The Bilingual Brain, R & Python programming courses
+- The Brain and Space, Learning How to Learn, The Bilingual Brain, R & Python programming courses
 
 ## Research Experience
 
@@ -59,28 +59,28 @@ Rochester, NY USA<br>
 
 *Rochester Institute of Technology*
 
-> - Literature review, proposal, participant recruitment, data collection and analysis, and defense of a study looking at emotional word processing as a thesis study
-> - Working under faculty advisors as a research assistant for multiple studies ranging from note taking style and academic performance to noise reduction technology and speech intelligibility in audio recordings
-> - Proficient in the use of programs such as R, SPSS, Jamovi, JASP, Excel, SuperLab, Psychopy, Qualtrics, and Amazon mTurk for data collection, manipulation, and analysis
+- Literature review, proposal, participant recruitment, data collection and analysis, and defense of a study looking at emotional word processing as a thesis study
+- Working under faculty advisors as a research assistant for multiple studies ranging from note taking style and academic performance to noise reduction technology and speech intelligibility in audio recordings
+- Proficient in the use of programs such as R, SPSS, Jamovi, JASP, Excel, SuperLab, Psychopy, Qualtrics, and Amazon mTurk for data collection, manipulation, and analysis
 
 ### Research Design & Data Analysis
 
 *Colgate University*
 
-> - Awarded funding for an independent summer research project involving both Japanese and English psychological literature and subsequent design of an experiment for my theses
-> - Researching, designing, and conducting a psychological study for my theses in both Psychology and Japanese involving Japanese phonology and multi-modal speech perception & production
-> - Proficient in the use of the audio analysis programs CSL and Praat
+- Awarded funding for an independent summer research project involving both Japanese and English psychological literature and subsequent design of an experiment for my theses
+- Researching, designing, and conducting a psychological study for my theses in both Psychology and Japanese involving Japanese phonology and multi-modal speech perception & production
+- Proficient in the use of the audio analysis programs CSL and Praat
 
 ## Statistics & Coding Experience
 
-> - Enrolled in 4 intermediate and advanced statistics courses at Rochester Institute of Technology, including data analysis for various research studies
-> - Enrolled in 3 statistics-related courses at Colgate University, as well data analysis for my theses
-> - Well-versed in R & RStudio, SPSS, Jamovi, JASP, and Excel for data manipulation and analysis
-> - Some data analysis experience in Python, MatLab, Microsoft VBA, and SAS
+- Enrolled in 4 intermediate and advanced statistics courses at Rochester Institute of Technology, including data analysis for various research studies
+- Enrolled in 3 statistics-related courses at Colgate University, as well data analysis for my theses
+- Well-versed in R & RStudio, SPSS, Jamovi, JASP, and Excel for data manipulation and analysis
+- Some data analysis experience in Python, MatLab, Microsoft VBA, and SAS
 
-## Manuscripts in Preparation
+## Publications
 
-> - Crumb, R., Hildebrandt, R. & Sutton, T. M. (2019). Note-taking Mode as a Source of Context Reinstatement.
+- Crumb, R., Hildebrandt, R. & Sutton, T. M. (2019). The value of handwritten notes: A failure to find state-dependent effects when using a laptop to take notes and complete a quiz. *(to be published in 2021 in Teaching of Psychology)*
 
 ## Conference Presentations
 
